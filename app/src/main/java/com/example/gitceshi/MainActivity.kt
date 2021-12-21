@@ -21,5 +21,8 @@ class MainActivity : AppCompatActivity() {
         println("小李这个时候很恼火")
         println("我非常生气")
         println("abc")
+        println("小李骂人了")
+        println("小李打人了")
+        println("小李")
     }
 }

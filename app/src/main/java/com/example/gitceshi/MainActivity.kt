@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
         value = 20
         println("kjdlfjafdfjaljfgitee")
         println("dafjdljflajsl")
+        println("oneself")
     }
 }

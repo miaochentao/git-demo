@@ -20,5 +20,6 @@ class MainActivity : AppCompatActivity() {
         println("我不服气又更新了")
         pritnln("小李这个时候很恼火")
         println("小李发怒了")
+        println("bdlkdfja")
     }
 }

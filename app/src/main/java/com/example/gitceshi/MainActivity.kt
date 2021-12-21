@@ -24,5 +24,6 @@ class MainActivity : AppCompatActivity() {
         println("我学会神功了")
         println("小李服气了")
         println("我右写了好多代码")
+        println("小李不服气开始建文件夹了")
     }
 }

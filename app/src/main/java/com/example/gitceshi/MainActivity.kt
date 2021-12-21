@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         println("result")
         println("ajdfjaljflkajsfl")
         value = 10
-        value = 20
+        value = 90
         println("kjdlfjafdfjaljfgitee")
         println("dafjdljflajsl")
         println("oneself")
@@ -22,6 +22,6 @@ class MainActivity : AppCompatActivity() {
         println("我非常生气")
         println("abc")
         println("我学会神功了")
-        println("可以打人了")
+        println("小李服气了")
     }
 }

@@ -17,5 +17,6 @@ class MainActivity : AppCompatActivity() {
         println("oneself")
         println("小李更新了")
         println("小李右更新了")
+        println("小李也不服气也更新了")
     }
 }

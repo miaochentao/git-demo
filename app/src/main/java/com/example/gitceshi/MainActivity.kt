@@ -18,7 +18,8 @@ class MainActivity : AppCompatActivity() {
         println("小李更新了")
         println("小李右更新了")
         println("我不服气又更新了")
-        pritnln("小李这个时候很恼火")
-        println("小李发怒了")
+        println("小李这个时候很恼火")
+        println("我非常生气")
+        println("abc")
     }
 }

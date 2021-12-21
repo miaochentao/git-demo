@@ -20,6 +20,6 @@ class MainActivity : AppCompatActivity() {
         println("我不服气又更新了")
         println("小李这个时候很恼火")
         println("我非常生气")
-        println("我也操作了")
+        println("abc")
     }
 }

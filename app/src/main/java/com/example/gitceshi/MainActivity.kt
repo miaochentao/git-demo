@@ -10,7 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("result")
         println("ajdfjaljflkajsfl")
-        value = 10
         value = 90
         println("kjdlfjafdfjaljfgitee")
         println("dafjdljflajsl")
@@ -25,5 +24,6 @@ class MainActivity : AppCompatActivity() {
         println("小李服气了")
         println("我右写了好多代码")
         println("小李不服气开始建文件夹了")
+        println("小李要做最后的抵抗了")
     }
 }

@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         println("ajdfjaljflkajsfl")
         value = 10
         value = 20
+        println("dkkfjalfjljd")
+        println("jdflkjasldfj")
     }
 }
